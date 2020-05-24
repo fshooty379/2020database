@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import pymysql
 from tkinter import ttk
 import tkinter as tk
